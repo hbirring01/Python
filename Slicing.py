@@ -7,6 +7,4 @@ print(word[word.index('fragi'):word.index('expi')])
 #Recap
 """
 strings are iterable and immutable. We can access the individual elements in a string
-
-
 """
