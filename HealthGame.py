@@ -14,6 +14,7 @@ def health_potion(difficulty):
 
 
 if __name__ == '__main__':
+#Passing in a different level (1 to 3) into the function will determine your new health.
     health_potion(1)
 
     
