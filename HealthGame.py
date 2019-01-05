@@ -3,9 +3,9 @@ import random
 def health_potion(difficulty):
     health = 50 
     if difficulty == 1:
-        new_health = random.randint(25, 50)
+        new_health = random.randint(26, 50)
     elif difficulty == 2:
-        new_health = random.randint(10, 25)
+        new_health = random.randint(11, 25)
     elif difficulty == 3:
         new_health = random.randint(1, 10)
     health = print('new health is: ' + str(new_health))
