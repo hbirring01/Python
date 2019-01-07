@@ -20,4 +20,16 @@ C = False
 
 3 <=2 # 3 is less than or equal to 2 
 
+"""
+c = 10
+D =5 
+if c > 10 and D > 1
+this is false because as long as you have atleast one false everythig is false
 
+OR operator
+
+if c > 1 or D > 1
+True
+
+
+"""
