@@ -10,10 +10,10 @@ username = email[:email.index("@")]
 
 #Slice domain name
 
-doamin = email[email.index("@") + 1:]
+domainname = email[email.index("@") + 1:]
 
 #Format output message
-output = 'your username is {} and your domain is {}.'.format(username,domain)
+output = 'your username is {} and your domain is {}.'.format(username,domainname)
 
 #Display output message
 print(output)
