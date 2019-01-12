@@ -24,3 +24,4 @@ Apply a filter with an If-statement.
 words = ['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the ', 'lazy', 'dog']
 answer = [[w.upper(), w.lower(), len(w)] for w in words]
 
+Even = [x for x in range(1, 101) if x % 2 == 0]
