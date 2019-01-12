@@ -24,4 +24,3 @@ for word in words:
 output = ' '.join(newWords)
     
 print(output)
-
